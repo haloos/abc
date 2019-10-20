@@ -1,3 +1,3 @@
 <h6>ABC</h6>
 
-<h3><em>Some fun, basi htl</em></h3>
+<h3><em>Some fun, basic htl</em></h3>
